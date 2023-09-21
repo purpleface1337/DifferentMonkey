@@ -20,5 +20,15 @@
 		}
 	</script>
 	
+	<button onclick="fart()" style="height:50px;width:200px"> Fart button </button>
+	
+	<script>
+		function fart(){
+			var snd = new Audio("fart.mp3");
+			snd.play();
+			snd.currentTime=0;
+		}
+	</script>
+	
 </body>
 </html>
