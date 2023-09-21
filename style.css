@@ -1,0 +1,46 @@
+body {
+		background-image: url('gege.png');
+		color: black;
+		background-size: 200px;
+}
+
+body h1 {
+	color: black;
+	text-align: center;
+	font-size: 50;
+	text-shadow: 2px 2px #FFFFFF;
+	font-family: Comic Sans MS;
+}
+
+body h2 {
+	 color: blue;
+	 
+}
+
+body h3 {
+	color: red;
+}
+
+body h4 {
+	color: green;
+}
+
+body h5 {
+	color: purple;
+}
+
+button {
+	background-color: red;
+	color: black;
+	font-size: 20;
+	font-family: Comic Sans MS;
+	
+}
+
+p {
+	font-size: 50;
+	font-family: Comic Sans MS;
+	color: red;
+	repeat-text: 999;
+	;
+}	
